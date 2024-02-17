@@ -7,7 +7,7 @@
 
 import UIKit
 
-class LoginView: UIView {
+public class LoginView: UIView {
  
     @IBOutlet var contentView: UIView!
     
